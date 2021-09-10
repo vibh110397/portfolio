@@ -2,7 +2,8 @@ module.exports = {
   reactStrictMode: true,
   images:{
     domains: [
-      'localhost'
+      'vibhormalik.netlify.app'
     ]
-  }
+  },
+  webpack5: false,
 }
