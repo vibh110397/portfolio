@@ -9,7 +9,7 @@ const Sidebar = () => {
   return (
     <div>
       <img
-        src="http://localhost:3000/profilepic.jpg"
+        src="https://vibhormalik.netlify.app/profilepic.jpg"
         alt="user avatar"
         className="w-32 h-32 mx-auto rounded-full"
       />
